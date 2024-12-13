@@ -30,4 +30,4 @@ def evaluate(data_path,model_path):
     print("Model accuracy: {accuracy}")
 
 if __name__=="__main__":
-    evaluate(params["data",params["model"]])
+    evaluate(params["data"],params["model"])
